@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm passionate about technology, building cool thi
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-Muhammad346&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Muhammad346&layout=compact&theme=github_dark)
 
 ---
 
