@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology, building cool thi
 - 🔭 I’m currently working on: React.js Projects
 - 🌱 I’m currently learning: Front End Development
 - 📫 How to reach me: itsbilalmuhammad310@gmail.com
-
+- 📫 My LinkedIn: https://github.com/Bilal-Muhammad346
 ---
 
 ## 🛠️ Tech Stack
